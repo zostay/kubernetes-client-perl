@@ -1,4 +1,5 @@
 use ExtUtils::MakeMaker;
+use ExtUtils::MakeMaker::CPANfile;
 
 WriteMakefile(
     NAME              => "Kubernetes",
